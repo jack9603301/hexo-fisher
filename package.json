@@ -1,0 +1,9 @@
+{
+  "name": "@jack9603301/hexo-fisher",
+  "version": "1.0.8",
+  "description": "Add a fisher effect to hexo",
+  "main": "index.js",
+  "license": "GPL",
+  "repository": "https://github.com/jack9603301/hexo-fisher",
+  "author": "jack9603301 <jack9603301@163.com>"
+}
